@@ -1,0 +1,32 @@
+.analytics-data{
+    width: 75%;
+    display: inline-block;    
+    background: #e5e5e5;
+}
+.chat-bot{
+    width: 25%;
+    display: inline;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    background: #f1f1f1;
+    height: 100vh;
+}
+
+.flex-row {
+  display: flex;    
+}
+  
+.flex-card-element {
+  flex: 1;    
+  margin: 5px;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 6px;    
+  height: 250px;
+}
+  
+.flex-card-element:first-child {
+  margin-right: 5px;
+}
+.flex-card-element:last-child {
+  margin-left: 5px;
+}
