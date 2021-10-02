@@ -22,9 +22,11 @@ body{
 .pr-10px{
     padding-right: 10px;
 }
+
 .py-10px{
-    padding:10px 0px
+    padding:10px 0
 }
+
 .px-15px{
     padding:0 15px;
 }
@@ -32,15 +34,19 @@ body{
 .mx-5px{
     margin: 0 5px;
 }
+
 .w-100{
     width: 100%;
 }
+
 .text-right{
     text-align: right;
 }
+
 .text-left{
     text-align: left;
 }
+
 .font-14px, .average-call-section td,.average-call-section th{
     font-size: 14px;
 }
